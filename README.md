@@ -1,3 +1,1 @@
-# Site BarbeariaJC
-
 ## EM DESENVOLVIMENTO
