@@ -3,14 +3,20 @@
     --secondary-background--color: #ffffff;
     
     /*Hover*/
-    --hover-color: #F28705;
+    --hover-color: #f59f0a;
+
+    /*Color*/
+    --primary-color: #f5f3f0;
 
     /*Descrition*/
     --background-color-description: #0B0B0D;
 
+    /*Fontes*/
+    --title-nav: "Arimo", sans-serif;
 }
 
-
+/*Import das Fontes*/
+@import url('https://fonts.googleapis.com/css2?family=Arimo:ital,wght@0,400..700;1,400..700&display=swap');
 
 
 
